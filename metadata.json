@@ -1,0 +1,5 @@
+{
+  "name": "Sắp xếp Lớp học Thông minh",
+  "description": "Một ứng dụng web trực quan cho phép giáo viên và nhà quản lý giáo dục dễ dàng thiết kế và tùy chỉnh sơ đồ lớp học. Kéo và thả các đối tượng như bàn học sinh, bàn giáo viên, tủ sách và nhiều hơn nữa vào các phông nền có sẵn để tạo ra một không gian học tập tối ưu.",
+  "requestFramePermissions": []
+}
